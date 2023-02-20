@@ -1,0 +1,27 @@
+.form {
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.question {
+    height: 40px;
+    width: 400px;
+    font-size: 20px;
+    border: 0;
+    border-bottom: grey solid 1px;
+    border-radius: 5px;
+    padding: 2px;
+    margin-right: 10px ;
+    background-color: rgb(233, 233, 233);
+    
+}
+
+.answer-types {
+    font-size: 20px;
+    padding: 10px;
+    height: 48px;
+    border: 1px grey solid;
+    border-radius: 5px;
+}
